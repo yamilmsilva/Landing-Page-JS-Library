@@ -6,9 +6,9 @@ Desktop first .
 
 ## Demo
 https://lpphoto2024.netlify.app/
-## Screenshots
 
-![App Screenshot]("screen-shot/SCR-20240321-rudu.jpeg ")
+## Screenshots
+![App Screenshot](screen-shot/SCR-20240321-rudu.jpeg )
 
 
 ## Appendix
