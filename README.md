@@ -20,6 +20,13 @@ https://remixicon.com/
 
 and finally HTML.
 
+## Note - Keep in mind
+REMEMBER THAT IF YOUR LAYOUT IS 
+
+DESKTOP FIRST: IN MEDIA QUERIES GO "max-width" ">"
+
+MOBILE FIRST: IN MEDIA QUERIES GO "min-width"  "<"
+
 
 
 ## 🛠 Skills
