@@ -260,9 +260,9 @@ nav{
 /*=============== 
 REMEMBER THAT IF YOUR LAYOUT IS 
 
-# DESKTOP FIRST: IN MEDIA QUERIES GOES "max-width" ">"
+# DESKTOP FIRST: IN MEDIA QUERIES GO "max-width" ">"
 #
-# MOBILE FIRST: IN MEDIA QUERIES GOES "min-width"  "<"
+# MOBILE FIRST: IN MEDIA QUERIES GO "min-width"  "<"
 
 ===============*/
 
